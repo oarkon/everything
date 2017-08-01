@@ -1,1 +1,1 @@
-(Checklist: Node.JS production best practices)[http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/]
+[Checklist: Node.JS production best practices](http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/)
